@@ -1,0 +1,19 @@
+{
+  "$id": "3",
+  "AutoRefresh": true,
+  "AutoRefreshRemotes": true,
+  "CommitTextLinks": null,
+  "DraftCommitMsg": "",
+  "IncomingSavedCount": 0,
+  "LastCheckedRemotes": "2024-04-03T16:30:19.5431463+09:00",
+  "LastUsedView": 0,
+  "LogBranchFilterIndex": 0,
+  "OutgoingSavedCount": 0,
+  "SidebarExpandedItems": [
+    "브랜치"
+  ],
+  "SidebarWidth": 210.0,
+  "SubtreeLinks": [],
+  "NeedsLargeFilesPull": false,
+  "RemoteProjectLinks": []
+}
